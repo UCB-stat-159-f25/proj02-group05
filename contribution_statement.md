@@ -1,0 +1,2 @@
+- Soohyun Kim
+- Finished part 4. Helped organize repo structure.
