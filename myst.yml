@@ -1,0 +1,20 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 2ece5956-ebcb-4275-b44e-2692659ed423
+  title: Project 2 of Stat 159/259 in Fall 2025
+  description: This is our repository for Project 2 of Stat 159/259 where we explored different methods for textual analysis and natural language processing.
+  keywords: [nlp, state of the union, sotu]
+  authors: [Aniket Kamat, Yuyang Wu, Brycen Manners, Soohyun Kim]
+  github: https://github.com/UCB-stat-159-f25/proj02-group05
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: book-theme
+  title: Project 2 of Stat 159/259 in Fall 2025
+  nav_mode: file
+  actions:
+      - title: Binder launch 
+        url: https://mybinder.org/v2/gh/UCB-stat-159-f25/proj02-group05/HEAD
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
