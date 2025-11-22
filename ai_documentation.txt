@@ -3,3 +3,6 @@ I mainly used GPT for plotting or github commands.
 
 - Brycen Manners
 I used Gemini for debugging issues with datahub (not project specific)
+
+- Aniket Kamat
+I did not use AI.
