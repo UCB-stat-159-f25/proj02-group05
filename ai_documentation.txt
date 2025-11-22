@@ -2,4 +2,25 @@
 I mainly used GPT for plotting or github commands.
 
 - Brycen Manners
-I used Gemini for debugging issues with datahub (not project specific)
+	I used Gemini for debugging issues with datahub (not project specific)
+	
+	Prompt:
+	
+	/home/jovyan/.local/share/envs/sotu/lib/python3.13/site-packages/tqdm/auto.py:21: TqdmWarning: IProgress not found. Please update
+	jupyter and ipywidgets. See https://ipywidgets.readthedocs.io/en/stable/user_install.html
+	
+	from .autonotebook import tqdm as notebook_tqdm
+	
+	Output:
+	
+	Recommended Fix (Get the better progress bar)
+	To resolve the warning and enable the rich, interactive progress bars in your notebook, you need to ensure jupyter and ipywidgets
+	are installed and up-to-date.
+	
+	You can run this command in your terminal or a new notebook cell (preceded by !, if in a notebook):
+	
+	Bash
+	
+	pip install --upgrade jupyter ipywidgets
+
+	After installation, you might need to restart your Jupyter kernel.
