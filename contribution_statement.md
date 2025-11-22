@@ -3,3 +3,6 @@
 
 - Brycen Manners
 - Worked on Part 3.
+
+- Yuyang Wu
+- Worked on Part 2.
