@@ -2,6 +2,7 @@
 I mainly used GPT for plotting or github commands.
 
 - Brycen Manners
+<<<<<<< HEAD
 	I used Gemini for debugging issues with datahub (not project specific)
 	
 	Prompt:
@@ -24,3 +25,12 @@ I mainly used GPT for plotting or github commands.
 	pip install --upgrade jupyter ipywidgets
 
 	After installation, you might need to restart your Jupyter kernel.
+=======
+I used Gemini for debugging issues with datahub (not project specific)
+
+- Aniket Kamat
+I did not use AI.
+
+- Yuyang Wu
+I did not use AI.
+>>>>>>> 139de5d1233dd1a2067cce405c9a5a8b04a32dff
